@@ -1,0 +1,1 @@
+KickStarter::Application.config.secret_token = 'bb78a3a0943c5896ab1f1aafa413a28eb514a960a35b85e94c5b37e00cf5caa7454a270afa0f8a5d9f91850c8abb9a8ac85a9a21afa99f589d545325d354f752'
